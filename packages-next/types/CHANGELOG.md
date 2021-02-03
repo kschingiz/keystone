@@ -1,5 +1,11 @@
 # @keystone-next/types
 
+## 11.0.3
+
+### Patch Changes
+
+- [`096927a68`](https://github.com/keystonejs/keystone/commit/096927a6813a23030988ba8b64b2e8452f571a33) [#4756](https://github.com/keystonejs/keystone/pull/4756) Thanks [@timleslie](https://github.com/timleslie)! - Added correct types for `config.server.cors`.
+
 ## 11.0.2
 
 ### Patch Changes

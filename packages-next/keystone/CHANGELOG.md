@@ -1,5 +1,14 @@
 # @keystone-next/keystone
 
+## 9.2.1
+
+### Patch Changes
+
+- [`096927a68`](https://github.com/keystonejs/keystone/commit/096927a6813a23030988ba8b64b2e8452f571a33) [#4756](https://github.com/keystonejs/keystone/pull/4756) Thanks [@timleslie](https://github.com/timleslie)! - Added correct types for `config.server.cors`.
+
+- Updated dependencies [[`096927a68`](https://github.com/keystonejs/keystone/commit/096927a6813a23030988ba8b64b2e8452f571a33)]:
+  - @keystone-next/types@11.0.3
+
 ## 9.2.0
 
 ### Minor Changes

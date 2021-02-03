@@ -1,5 +1,18 @@
 # @keystone-next/example-ecommerce
 
+## 0.3.0
+
+### Minor Changes
+
+- [`909459ea4`](https://github.com/keystonejs/keystone/commit/909459ea4edff1680bc9b95104edbb4eee4f8253) [#4755](https://github.com/keystonejs/keystone/pull/4755) Thanks [@timleslie](https://github.com/timleslie)! - Updated with the latest changes from the advanced-react course.
+
+### Patch Changes
+
+- Updated dependencies [[`314edec3d`](https://github.com/keystonejs/keystone/commit/314edec3d12f3bb56611f101edc3a78cba940605), [`096927a68`](https://github.com/keystonejs/keystone/commit/096927a6813a23030988ba8b64b2e8452f571a33)]:
+  - @keystone-next/auth@13.0.1
+  - @keystone-next/keystone@9.2.1
+  - @keystone-next/types@11.0.3
+
 ## 0.2.11
 
 ### Patch Changes

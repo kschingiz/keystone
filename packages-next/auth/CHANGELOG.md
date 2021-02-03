@@ -1,5 +1,15 @@
 # @keystone-next/auth
 
+## 13.0.1
+
+### Patch Changes
+
+- [`314edec3d`](https://github.com/keystonejs/keystone/commit/314edec3d12f3bb56611f101edc3a78cba940605) [#4384](https://github.com/keystonejs/keystone/pull/4384) Thanks [@timleslie](https://github.com/timleslie)! - Added improved types to resolver functions.
+
+- Updated dependencies [[`096927a68`](https://github.com/keystonejs/keystone/commit/096927a6813a23030988ba8b64b2e8452f571a33)]:
+  - @keystone-next/keystone@9.2.1
+  - @keystone-next/types@11.0.3
+
 ## 13.0.0
 
 ### Patch Changes
